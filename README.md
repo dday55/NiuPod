@@ -1,6 +1,6 @@
 # NiuPod — 飞牛音乐 · iPod 风格
 
-NiuPod 是[飞牛私有云（FNOS）](https://www.fnos.com/)音乐服务的**非官方**第三方 iOS 客户端，
+NiuPod 是飞牛私有云（FNOS）音乐服务的**非官方**第三方 iOS 客户端，
 把飞牛 NAS 的音乐库装进一台「iPod Classic」风格的界面：金属机身、内嵌屏、Click Wheel 转盘交互，以及完整的在线播放体验。
 
 > **非官方项目**：与飞牛 / FNOS 官方无任何关联、授权或赞助关系。详见文末[重要声明](#重要声明)。
