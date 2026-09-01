@@ -5,6 +5,28 @@ NiuPod 是[飞牛私有云（FNOS）](https://www.fnos.com/)音乐服务的**非
 
 > **非官方项目**：与飞牛 / FNOS 官方无任何关联、授权或赞助关系。详见文末[重要声明](#重要声明)。
 
+## 界面预览
+
+<table>
+<tr>
+<td align="center">
+
+![主页](assets/IMG_1641.PNG)<br>主页
+
+</td>
+<td align="center">
+
+![播放](assets/IMG_1642.PNG)<br>播放
+
+</td>
+<td align="center">
+
+![歌词](assets/IMG_1643.PNG)<br>歌词
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 功能特性
@@ -65,30 +87,6 @@ open NiuPod.xcodeproj
 | ▶❙❙ | 播放 / 暂停 | 播放 / 暂停 | 播放 / 暂停 |
 
 **曲目操作菜单**（长按中心键约 0.45 秒）：播放 / 收藏或取消收藏 / 取消。
-
----
-
-## 界面预览
-
-<table>
-<tr>
-<td align="center">
-
-![主页](assets/IMG_1641.PNG)<br>主页
-
-</td>
-<td align="center">
-
-![播放](assets/IMG_1642.PNG)<br>播放
-
-</td>
-<td align="center">
-
-![歌词](assets/IMG_1643.PNG)<br>歌词
-
-</td>
-</tr>
-</table>
 
 ---
 
