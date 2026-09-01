@@ -1,0 +1,34 @@
+# XcodeGen 生成文件（README 要求不要提交，克隆后用 `xcodegen generate` 重建）
+NiuPod.xcodeproj
+*.xcworkspace
+
+# 构建产物
+build/
+DerivedData/
+
+# Xcode 用户/临时文件
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+
+# macOS
+.DS_Store
+
+# 密钥 / 环境变量 / 本地签名身份
+*.env
+
+# 本地签名团队 ID（由 scripts/set-team.sh 生成，绑个人 Apple 账号，不入库）
+.niupod-team
